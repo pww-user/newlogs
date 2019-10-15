@@ -1,0 +1,19 @@
+{
+  "name": "newlogs",
+  "description": "",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "265ba309",
+  "clientVersion": "6.1.0-dev",
+  "theme": "Essential",
+  "creatorId": "admin",
+  "isBuiltInTemplate": false,
+  "screensCount": 4,
+  "creatorName": "PowWow Admin",
+  "explorations": [
+    "acmetransferrequests"
+  ],
+  "disableSideMenu": false,
+  "iconUrl": "/previews/login.png",
+  "hidden": false,
+  "created": 1571149974735
+}
